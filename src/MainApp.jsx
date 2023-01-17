@@ -9,7 +9,7 @@ export const MainApp = () => {
     <div>
       <AppBar position='static'>
         <Toolbar>
-          <Typography variant='h6'>Counter app example with mui</Typography>
+          <Typography variant='h6'>ゆ Counter app example with mui</Typography>
         </Toolbar>
       </AppBar>
       <h1 style={{ position: 'absolute', top: '40%', left: '30%' }}>Counter: {counter}</h1>
